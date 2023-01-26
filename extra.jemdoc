@@ -1,0 +1,108 @@
+# jemdoc: menu{MENU}{extra.html}
+= jemdoc -- extra syntax elements
+
+These are some extended syntax options that may come in useful. 
+
+== Quotes
+~~~
+{The famous quote by the English biologist Thomas H. Huxley}{}
+\~~~
+"try to learn something about everything and everything about something"
+\~~~
+~~~
+speaks to the scope and depth of teaching and learning that I could not agree more with. 
+
+~~~
+{[https://www.newscientist.com/article/mg23931972-900-mathematicians-must-be-more-prepared-to-test-their-truths From newscientist website]}{}
+\~~~
+"It is a truism that science is not true. A scientific theory is merely our best
+guess at truth, backed up by evidence, but waiting to be overturned by something
+better. Copernicus rewrote Ptolemy; Einstein picked holes in Newton; Darwin
+overturned pre-existing stories of our origins."
+\~~~
+~~~
+
+~~~
+{[https://lendedu.com/blog/can-use-credit-card-atm/ From lendedu website]}{}
+\~~~
+"Convenience isn't always the best path, especially when it could cost you a 
+lot more in the long run than the cash you initially needed."
+\~~~
+~~~
+
+~~~
+{[https://www.forbes.com/sites/victorlipman/2018/02/24/how-important-is-empathy-to-successful-management/\#5f39581ea46d /Forbes/]}{}
+\~~~
+"Having powerful empathetic conversations is a critical piece of being a great manager, and to truly hear the employee, 
+deep listening and suspended judgment are needed skills. Management is the science of accomplishing work through others. 
+Easy to forget, but always worth bearing in mind."
+\~~~
+~~~
+
+== paper 
+~~~
+{From page 12 [http://www-stat.wharton.upenn.edu/~tcai/paper/CHIME.pdf]}{}
+\~~~
+"the establishment of Lemma 3.1 is based on the key observation that..."
+\~~~
+~~~
+~~~
+{From page 11 [https://arxiv.org/pdf/1505.05116.pdf]}{}
+\~~~
+"For ease of notation, throughout this section we suppress the dependence on the decision variable x."
+\~~~
+~~~
+~~~
+{From page 19 [https://arxiv.org/pdf/1810.02403.pdf]}{}
+\~~~
+"Note that the hinge loss function is not continuously differentiable, so the theoretical result
+provided in previous sections can not be directly applied. However, it is still interesting to
+observe the performance of our algorithm when applied to the distributionally robust SVM."
+\~~~
+~~~
+~~~
+{From page 7 [http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf]}{}
+\~~~
+"Vapnik's principle: When trying to solve some problem, one should not solve a more difficult problem as an intermediate step."
+\~~~
+~~~
+
+== soccer 
+~~~
+{Stoppage time}{}
+\~~~
+At the end of each 45-minute half, the referee is allowed to add any number of additional 
+minutes of play at his own discretion. This is known as stoppage time or added time, and 
+it is meant to make up for time lost during substitutions, assessment and treatment of 
+injured players and time-wasting, as well as any other cause.
+\~~~
+~~~
+
+== Interesting paper
+~~~
+{[http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/ Troubling Trends in Machine Learning Scholarship]}{}
+-- Failure to distinguish between explanation and speculation.
+-- Failure to identify the sources of empirical gains, e.g. emphasizing unnecessary 
+modifications to neural architectures when gains actually stem from hyper-parameter tuning.
+-- Mathiness: the use of mathematics that obfuscates or impresses rather than clarifies, e.g. 
+by confusing technical and non-technical concepts.
+-- Misuse of language, e.g. by choosing terms of art with colloquial connotations or by 
+overloading established technical terms.
+~~~
+~~~
+{[https://pdfs.semanticscholar.org/a42d/6bd6d7890559dbc810146ce545f1e2bbf55b.pdf Minimaxity, Statistical Thinking and Differential Privacy]}{}
+-- Minimaxity, Statistical Thinking and Differential Privacy
+~~~
+~~~
+{[http://www.stat.cmu.edu/~larry/Wasserman.pdf Rise of the Machines]}{}
+The rise of the field of Machine Learning and what it means for Statistics.
+~~~
+
+== Comics
+~~~
+{[https://xkcd.com/1838/ Machine Learning]}{}
+\~~~
+"What if the answers are wrong? Just stir the pile until they start looking right."
+\~~~
+~~~
+

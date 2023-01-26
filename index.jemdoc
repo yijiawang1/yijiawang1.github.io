@@ -1,0 +1,78 @@
+# jemdoc: menu{MENU}{index.html}
+= Yijia Wang
+
+~~~
+{}{img_left}{yijiawang.jpg}{}{120px}{163px}{}
+[https://yijiawang1.github.io Yijia Wang], Ph.D. \n
+Applied Scientist \n
+Amazon \n
+~~~
+
+
+== Contact
+Email: [yiw94@pitt.edu] \n
+Website: [https://yijiawang1.github.io] \n
+LinkedIn: [https://www.linkedin.com/in/yijia-wang-639020154/] \n
+CV: [Wang_2023_healthcare.pdf PDF] \n
+*If you'd like to collaborate in research, please shoot an email!*
+
+
+
+# == Interests and current research
+# - Approximate dynamic programming;
+# - Reinforcement learning;
+# - Bayesian optimization.
+
+
+
+== Education
+- Ph.D., Operations Research, [https://www.pitt.edu/ University of Pittsburgh], 2022
+- M.A., Management Science and Engineering, [http://www.tju.edu.cn/english/index.htm Tianjin University], 2016
+- B.S., Logistics Engineering, [http://www.tju.edu.cn/english/index.htm Tianjin University], 2013
+
+
+
+== Experience
+=== Industrial Experience
+*Applied Scientist in SCOT (Supply Chain Optimization Technologies) at Amazon, Seattle, WA.*, May. 2022 - Now
+    - Utilized SQL, Python, AWS technologies (S3, Sagemaker, and Athena) and ETL processes to conduct a comprehensive analysis and visualization of customer search data, product demand data, and the interrelatedness of substitutable products.
+    - Implemented Machine Learning and Causal Inference methods to estimate the demand for products that were suppressed in search ranking results due to inventory unavailability.
+    - Risk Control: Developed group-level metrics of substitutable products that reflect the risk of out-of-stock for search ranking. This information will be taken into consideration by the business team to take appropriate action.
+    - Major Tools and Languages: Python, SQL, AWS, ETL, EMR, Redshift, Spark, Scala
+
+*Applied Scientist Intern at Amazon, Seattle, WA.*, May. - Aug. 2021
+    - Applied regression models and Causal Inference methods to analyze the product substitute effect on demand shaping (suppress out-of-stock products in search results), with the result being used to correct the estimated lost demand for out-of-stock products.
+    - Major Tools and Languages: Python, SQL, AWS, ETL, Redshift
+
+*Research Engineer Intern at SigOpt, an Intel company, San Francisco, CA.*, May. - Aug. 2019
+    - Applied noisy EI (a method of Bayesian optimization) to improve the performance of the API for noisy problems.
+    - Applied additive Gaussian processes for optimizing high dimensional problems and improved the performance of the API by 20% on average.
+    - Utilized data analysis and data visualization tools to prove the performance of the applied algorithms.
+    - Major Tools and Languages: Python, AWS
+
+=== Academic Experience
+*Research Assistant at University of Pittsburgh*, 2016 Fall – 2022 Spring
+    - Utilized various programming languages such as Python, R, and Matlab to effectively analyze and visually represent data across multiple fields,
+    with specific emphasis on topics including, but not limited to, opoid overdose and naloxone (an overdose reversal drug) distribution, as well as energy pricing and demand analysis.
+    - Deployed the fast-slow structure of Markov decision processes, proposed approximate dynamic programming methodologies and algorithms to efficiently solve the problems.
+    The algorithms can be applied to real-world problems including the service allocation for a multi-class queue, multi-armed bandits, energy demand response, and so on.
+    Algorithms were implemented in Python.
+    - Focusing on discrete inventory and dispensing problems of public health with stochastic demand, developed a structural actor-critic algorithm,
+    which was implemented in Matlab and Python and performs at least 20% better than benchmarks within limited CPU time.
+    The algorithm was applied to naloxone dispensing problem in a case study.
+    - Studied the exploration problem with expensive interactions in reinforcement learning,
+    developed subgoals with intrinsic rewards to efficiently solve it and proposed a Bayes-optimal algorithm.
+    Algorithms were implemented in Python.
+
+
+
+
+== Presentations
+    - Approximate Hierarchical Value Iteration For Fast-Slow MDPs, INFORMS 2021.
+    - Structured actor-critic for managing and dispensing public health inventory, INFORMS 2020.
+    - Exploration via sample-efficient subgoal design, INFORMS 2019.
+    - Structured actor-critic for managing public health points-of-dispensing, INFORMS 2019.
+    - Exploration via sample-efficient subgoal design, ICLR workshop (Task-Agnostic RL) 2019.
+    - Structured actor-critic for managing and dispensing public health inventory, INFORMS 2018.
+    - Data-driven models for naloxone distribution amidst the opioid crisis, NIPS workshop (WiML) 2017.
+    - Data-driven models for naloxone distribution amidst the opioid crisis, INFORMS 2017.

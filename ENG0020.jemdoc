@@ -1,0 +1,82 @@
+# jemdoc: menu{MENU}{ENG0020.html}
+= Probability and Statistics for Engineers 
+
+== Instructor Information
+*instructor*: Chaosheng Dong \n
+*lecture time*: Tuesday and Thursday 9:30AM-10:45AM \n
+*lecture location*: G31 Benedum Hall \n
+*office hours*: Wednesday 2PM-3PM, and by appointment \n
+*office*: 1012 Benedum Hall \n
+*email*: chaosheng@pitt.edu \n
+
+== TA Information
+*teaching assistant*: Shaoning Han \n
+*recitation*: Friday 9:00AM-10:50AM, G28 Benedum Hall; 1:00PM-2:50PM, G26 Benedum Hall \n
+*office*: 1012 Benedum Hall \n
+*office hours*: Thursday 2-3PM \n
+*email*: shaoning.han@pitt.edu \n\n
+*grader*: Boyuan Lai \n
+*email*: BOL27@pitt.edu
+
+== Communication
+[https://piazza.com/class/jp24dhb57y445b Piazza] is intended for all future announcements, general questions about the course, clarifications about assignments, student questions to each other, discussions about material, and so on. We strongly encourage all students to participate in discussion, ask, and answer questions through Piazza. [https://courseweb.pitt.edu/ Courseweb] is used to record your grades.
+
+== Email Policy
+Do not expect immediate responses to emailed questions. I will try to respond to all emailed questions within 48 hours. For questions regarding the grades of homework, please contact the [BOL27@pitt.edu grader] first. For questions regarding the recitations and make-up of quizzes, please contact the [shaoning.han@pitt.edu TA] first.
+
+== Course Description
+An introductory course in statistics. Topics covered include: data analysis, probability, random variables, selected discrete and continuous probability distributions, one sample and two sample estimation, hypothesis testing, experiments with one factor, and introduction to regression analysis.  
+
+== Syllabus
+[material/ENG0020/SYLLABUS.pdf Syllabus] 
+
+== Schedule
+The following schedule is tentative, it will continuously change based on time constraints and interest of the people in the class. Reading materials and lecture notes will be added as lectures progress. 
+
+~~~
+{}{table}{date}
+Date| Topics| Slides | Homeworks | Recitations | Readings ||
+01\/08|  Introduction and Descriptive Statistics  | [https://www.dropbox.com/s/7wr690k8umkrd6l/lecture1.pdf?dl=0 lecture1] |  |  | Ch.1 ||
+01\/10|  Probability | [https://www.dropbox.com/s/phkvhynacd08m7s/lecture2.pdf?dl=0 lecture2] | [https://www.dropbox.com/s/l39p52i6yycbog2/hw1.pdf?dl=0 hw1] | [material/ENG0020/recitation1.pdf recitation1], [material/ENG0020/ex122.m code] | Ch.2 ||
+01\/15 |  Probability  | [https://www.dropbox.com/s/utrg6yswmz5m3yu/lecture3.pdf?dl=0 lecture3] |  |  | Ch.2 ||
+01\/17 |  Probability  | [https://www.dropbox.com/s/omx866oqq299np8/lecture4.pdf?dl=0 lecture4] | [https://www.dropbox.com/s/ar9vo971zfobl0h/hw2.pdf?dl=0 hw2] | [material/ENG0020/recitation2.pdf recitation2] | Ch.2 ||
+01\/22 | Random Variables and Probability Distributions | [https://www.dropbox.com/s/mz5rif2lpt29qa7/lecture5.pdf?dl=0 lecture5] | | | Ch.3 ||
+01\/24 | Random Variables and Probability Distributions | [https://www.dropbox.com/s/z5togitm1jafeyn/lecture6.pdf?dl=0 lecture6] | [https://www.dropbox.com/s/2lvnbe8naedpue5/hw3.pdf?dl=0 hw3] | [https://www.dropbox.com/s/pqy8sjkhf1pqn6n/Recitation%203.pdf?dl=0 recitation3] | Ch.3 ||
+01\/29 | Mathematical Expectation | [https://www.dropbox.com/s/bdl3wt1iwnulh0o/lecture7.pdf?dl=0 lecture7] | | | Ch.4 ||
+01\/31 | Mathematical Expectation | [https://www.dropbox.com/s/qmjwoj2cr4cnfme/lecture8.pdf?dl=0 lecture8] | [https://www.dropbox.com/s/unty4u37nvrznot/hw4.pdf?dl=0 hw4] | [material/ENG0020/recitation4.pdf recitation4], [material/ENG0020/quiz4.pdf quiz4] | Ch.4 - 5 ||
+02\/05 | Some Discrete Probability Distributions | [https://www.dropbox.com/s/zzgx71jh8ghvskh/lecture9.pdf?dl=0 lecture9] | | | Ch.5 ||
+02\/07 | Some Discrete Probability Distributions  | [https://www.dropbox.com/s/6f3y9ux52o8sblu/lecture10.pdf?dl=0 lecture10] | no homework | [material/ENG0020/recitation5.pdf recitation5], [material/ENG0020/quiz5.pdf quiz5] | Ch.5 ||
+02\/12 | Review | [https://www.dropbox.com/s/uj6gnupetr2z2wk/lecture11.pdf?dl=0 lecture11] | | | Ch.1 - 4  ||
+02\/14 | *Exam 1* | [https://www.dropbox.com/s/zq1iyp6dn2c2klj/topics.pdf?dl=0 topics],  [https://www.dropbox.com/s/77tfedv3j1spi5m/exam1_ans_key.pdf?dl=0 Sol]| [https://www.dropbox.com/s/dstayvnl9wz6crw/hw5.pdf?dl=0 hw5], [https://www.dropbox.com/s/61zo9dzwpjoy78s/hw5_sol.pdf?dl=0 hw5Sol] | no recitation | Ch.1 - 4, [https://www.johndcook.com/blog/2010/06/17/covariance-and-law-of-cosines/ correlation] ||
+02\/19 | Some Continuous Probability Distributions | [https://www.dropbox.com/s/aoai0jmawm4ek1r/lecture12.pdf?dl=0 lecture12] | | | Ch.6||
+02\/21 | Some Continuous Probability Distributions| [https://www.dropbox.com/s/qdpkmcm77uiab44/lecture13.pdf?dl=0 lecture13] | [https://www.dropbox.com/s/3pua5ymg6oc4r33/hw6.pdf?dl=0 hw6], [https://www.dropbox.com/s/gp4m84hoqcfhm0p/hw6_sol.pdf?dl=0 hw6Sol]| [material/ENG0020/recitation6.pdf recitation6], [material/ENG0020/quiz6.pdf quiz6] | Ch.6, [https://www.probabilitycourse.com/appendix/some_important_distributions.php Dist] ||
+02\/26 | Sampling  | [https://www.dropbox.com/s/c5g0pmrvfg4e9sj/lecture14.pdf?dl=0 lecture14] | | | Ch.8, [https://www.mathworks.com/help/matlab/random-number-generation.html random] ||
+02\/28 | Sampling  | [https://www.dropbox.com/s/ca2s1tbgpuhrinp/lecture15.pdf?dl=0 lecture15] | [https://www.dropbox.com/s/vtuimtkgaeilbiw/hw7.pdf?dl=0 hw7], [https://www.dropbox.com/s/lu01yh05kixj4cu/hw7_sol.pdf?dl=0 hw7Sol], [https://www.dropbox.com/s/ayxk4w154l24ow4/clt.m?dl=0 code]| [material/ENG0020/recitation7.pdf recitation7], [material/ENG0020/Recitation7.m code], [material/ENG0020/quiz7.pdf quiz7] | Ch.8, [https://www.probabilitycourse.com/chapter7/7_1_2_central_limit_theorem.php CLT], [https://www.probabilitycourse.com/chapter12/Chapter_12.pdf simu] ||
+03\/05 | One and Two-Sample Estimation| [https://www.dropbox.com/s/a755y39o06e7n7f/lecture16.pdf?dl=0 lecture16] | | | Ch.9 ||
+03\/07 | One and Two-Sample Estimation | [https://www.dropbox.com/s/jrrrnhmtdxrscun/lecture17.pdf?dl=0 lecture17] | [https://www.dropbox.com/s/47vocbv93k6m3i0/hw8.pdf?dl=0 hw8], [https://www.dropbox.com/s/i1jfehpj4zblcz1/hw8_sol.pdf?dl=0 hw8Sol] | [material/ENG0020/recitation8.pdf recitation8], [material/ENG0020/quiz8.pdf quiz8]| Ch.10, [https://www.probabilitycourse.com/chapter8/8_2_3_max_likelihood_estimation.php MLE] ||
+03\/12 | No class, Spring break|  | | | ||
+03\/14 | No class, Spring break|  | | | ||
+03\/19 | Review | [https://www.dropbox.com/s/wc1yhqbvpgkulil/lecture18.pdf?dl=0 lecture18] | | | Ch.5-9 ||
+03\/21 | *Exam 2* | [https://www.dropbox.com/s/kpwbq0eg859d6xg/topics.pdf?dl=0 topics], [https://www.dropbox.com/s/5lstmcvce7w4a8a/exam_2_sol.pdf?dl=0 Sol] |[https://goo.gl/forms/cD7FDPOkWFcV8XYF3 survey]| no recitation |[https://datascienceplus.com/prediction-interval-the-wider-sister-of-confidence-interval/ piVSci] ||
+03\/26 | One and Two-Sample Tests of Hypothesis| [https://www.dropbox.com/s/1csamkhgmoatc0s/lecture19.pdf?dl=0 lecture19] | [https://www.dropbox.com/s/2us3fhnxxn1gl5g/hw9.pdf?dl=0 hw9], [material/ENG0020/price.mat data], [https://www.dropbox.com/s/qx1zxisk1dsn723/hw9_sol.pdf?dl=0 hw9Sol], [https://www.dropbox.com/s/2vat3t8l58bnx1k/code.m?dl=0 code]| | Ch.10, [https://bair.berkeley.edu/blog/2019/02/15/false-discoveries/ FalseDisco] ||
+03\/28 | One and Two-Sample Tests of Hypothesis| [https://www.dropbox.com/s/c6ybyvu16kcz1wb/lecture20.pdf?dl=0 lecture20] | | [material/ENG0020/recitation9.pdf recitation9], [material/ENG0020/Recitation9.m code], [material/ENG0020/quiz9.pdf quiz9] | Ch.10 ||
+04\/02 | Regression | [https://www.dropbox.com/s/czidgmffx8l9j4g/lecture21.pdf?dl=0 lecture21] | | | Ch.11, [http://www.stat.cmu.edu/~hseltman/309/Book/chapter9.pdf linearReg] ||
+04\/04 | Regression | [https://www.dropbox.com/s/k6c1ppx7gyj8lm9/lecture22.pdf?dl=0 lecture22] |[https://www.dropbox.com/s/dsooos573zxn2vb/hw10.pdf?dl=0 hw10], [https://www.dropbox.com/s/a2hf4u0k823ukfe/data.zip?dl=0 data], [https://www.dropbox.com/s/e229utlt3g2ugbi/hw10_sol.pdf?dl=0 hw10Sol] |[material/ENG0020/Recitation10.pdf recitation10], [material/ENG0020/quiz10.pdf quiz10] | Ch.11, [http://www.mit.edu/~6.s085/notes/lecture3.pdf LinearReg2] ||
+04\/09 | Regression | [https://www.dropbox.com/s/ybjljl0rhcp13v3/lecture23.pdf?dl=0 lecture23] | | | Ch.11 ||
+04\/11 | One-Factor ANOVA | [https://www.dropbox.com/s/ayukwtqrrkc8tx3/lecture24.pdf?dl=0 lecture24] | [https://www.dropbox.com/s/nwpdadbdnqd6xhg/hw11.pdf?dl=0 hw11], [https://www.dropbox.com/s/ad0h6j9g2d38x8o/data.zip?dl=0, data], [https://www.dropbox.com/s/5p6qkoapmx3kgwi/hw11Sol.pdf?dl=0 hw11Sol], [https://www.dropbox.com/s/vn8hr1gcq97h7jz/code.m?dl=0 code]| [material/ENG0020/Recitation11.pdf recitation11], [material/ENG0020/Recitation11.m code], [material/ENG0020/quiz11.pdf quiz11] | Ch.13 ||
+04\/16 | One-Factor ANOVA | [https://www.dropbox.com/s/bchhshy3q3dsj03/lecture25.pdf?dl=0 lecture25] | | | Ch.13 ||
+04\/18 | Review | [https://www.dropbox.com/s/w2xjybx0i04kdme/lecture26.pdf?dl=0 Reveiw] | | | ||
+04\/26 | *Exam 3*(8-9:50am, G31) | [https://www.dropbox.com/s/2oz1pqmf8ni6o70/topics.pdf?dl=0 topics] | | |
+~~~
+
+# == Lecture Notes
+# Lecture 1. 
+
+== Recitations
+Quizzes will be taken during the recitation. Each student can make up two quizzes at most for the whole semester. If a student has surpassed this number, then each additionally missed quiz will be counted as a zero in the grade except for extreme cases.
+
+== Homeworks
+There will be weekly homework assignments for this class. Typically, the homework will be announced by Thursday, and is due by noon on the next Thursday. Homework can either be submitted to the instructor in class or sent to the instructor's mailbox in 1025D, Benedum Hall. Collaboration on solving the homework is allowed, after you have thought about the problems on your own. It is also OK to get clarification (but not solutions) from books or online resources, again after you have thought about the problems on your own. You should write your solution independently. 
+
+
+ 
